@@ -8,6 +8,7 @@ public class Interview {
 
         System.out.println(str);
         System.out.println("hello");
+        System.out.println();
 
     }
 }
